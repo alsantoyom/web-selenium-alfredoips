@@ -6,7 +6,9 @@ public class Metodos {
 		// Metodos en Java = Funcion
 		
 		int suma1 = 1+1;
+		System.out.println(suma1);
 		int suma2 = 2+2;
+		System.out.println(suma2);
 		
 		// Caracteristicas de un metodo
 		

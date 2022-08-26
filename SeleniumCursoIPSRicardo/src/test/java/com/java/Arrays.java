@@ -18,9 +18,11 @@ public class Arrays {
 		
 		diasSemana2[0] = "L";
 		diasSemana2[1] = "M";
+		System.out.println("El dia de hoy es "+diasSemana2[1]);
 		
 		int[] numeros = new int[1];
 		numeros[0]=23;
+		System.out.println("El dia de hoy es "+numeros[0]);
 		
 		String[][] nombres = new String[4][4];
 		nombres[0][0]= "Ricardo";
@@ -29,6 +31,7 @@ public class Arrays {
 		nombres[1][1]= "Ricardo";
 		nombres[2][0]= "Ricardo";
 		nombres[2][1]= "Ricardo";
+		System.out.println("El nombre es "+nombres[2][1]);
 
 		// Ejercicio #3 - Crear un arreglo unidimensional (como objeto) de 4 posiciones:
 		

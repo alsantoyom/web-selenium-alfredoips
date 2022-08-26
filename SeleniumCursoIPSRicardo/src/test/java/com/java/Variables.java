@@ -19,6 +19,7 @@ public class Variables {
 		
 		int suma = x + y;
 		
+		System.out.println(suma);
 
 	}
 

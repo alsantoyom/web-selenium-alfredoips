@@ -1,0 +1,12 @@
+{
+"tc001": {
+	"adminUserName": "Admin",
+	"adminPassword": "admin123",
+	"employeeName": "Jasmine",
+	"employeeFullName": "Jasmine Morgan",
+	"userName": "AlfredoSantoyo",
+	"userPassword": "asmUser123!",
+	"employeeNameResults": "Searching....",
+	"userNameErrorMsg": "Should be least 5 characters"
+	}
+}

@@ -25,7 +25,7 @@ public class PrimitiveTypes {
 		
 		String frase = "Hola";
 		
-		
+		System.out.println(frase);
 
 	}
 
